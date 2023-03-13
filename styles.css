@@ -71,3 +71,38 @@ body {
   position: relative;
   top: 6px;
 }
+
+.mock-test{
+  font-size: 20px;
+}
+
+.progress-bar{
+  position: fixed;
+  top: 0;
+  height: 4px;
+  width: 0%;
+  background: red
+}
+
+h2{
+  font-size: 55px
+}
+
+#start, #stop{
+  color: white;
+}
+
+#stop{
+  background-color: red;
+}
+#start{
+  background-color: green;
+}
+
+.start-polling-text{
+  font-size: 30px;
+}
+
+#dog{
+  margin-top: 15px;
+}
